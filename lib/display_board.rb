@@ -10,4 +10,4 @@ def display_board
     puts separator
     puts row_3
 end
-puts display_board
+prints display_board
